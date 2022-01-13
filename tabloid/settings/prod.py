@@ -7,7 +7,7 @@ DEBUG = False
 SECRET_KEY = 'g21lhshy+27)3=koq4o65h0oty+bmud9+d)ek7b2p7(wzal=np'
 
 # Add your site's domain name(s) here.
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['*']
 
 # To send email from the server, we recommend django_sendmail_backend
 # Or specify your own email backend such as an SMTP server.
