@@ -4,7 +4,7 @@ from .base import *  # noqa
 DEBUG = True
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'g21lhshy+27)3=koq4o65h0oty+bmud9+d)ek7b2p7(wzal=np'
+SECRET_KEY = None
 
 ALLOWED_HOSTS = ['*']
 
