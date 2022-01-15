@@ -23,7 +23,7 @@ Open this directory in a command prompt, then:
 
 ## Documentation links
 
-* docs related to the project are attached below
+* docs related to the project [TABLOID CMS.pdf](https://github.com/abhilashajay-dev/tabloid/files/7874284/TABLOID.CMS.pdf)
 
 * For deeper customization of backend code see
   [Wagtail](http://docs.wagtail.io/) and
