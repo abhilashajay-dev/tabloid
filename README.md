@@ -23,8 +23,7 @@ Open this directory in a command prompt, then:
 
 ## Documentation links
 
-* To customize the content, design, and features of the site see
-  [CodeRed CMS](https://docs.coderedcorp.com/cms/).
+* docs related to the project are attached below
 
 * For deeper customization of backend code see
   [Wagtail](http://docs.wagtail.io/) and
@@ -32,8 +31,3 @@ Open this directory in a command prompt, then:
 
 * For HTML template design see [Bootstrap](https://getbootstrap.com/).
 
----
-
-Made with ♥ using [Wagtail](https://wagtail.io/) +
-[CodeRed CMS](https://www.coderedcorp.com/cms/)
-"# cms" 
