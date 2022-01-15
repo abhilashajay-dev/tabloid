@@ -17,8 +17,15 @@ Open this directory in a command prompt, then:
    ```
    python manage.py runserver
    ```
-
-3. Go to http://localhost:8000/ in your browser, or http://localhost:8000/admin/
+3. Run migrations:
+   ```
+   python manage.py migrate
+   ```
+4. Create superuser:
+    ```
+    python manage.py createsuperuser
+    ```
+5. Go to http://localhost:8000/ in your browser, or http://localhost:8000/admin/
    to log in and get to work!
 
 ## Documentation links
